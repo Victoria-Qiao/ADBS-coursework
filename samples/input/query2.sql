@@ -1,0 +1,1 @@
+SELECT DISTINCT * FROM Boats WHERE Boats.F=4;

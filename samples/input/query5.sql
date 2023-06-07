@@ -1,0 +1,1 @@
+SELECT * FROM Sailors, Reserves, Boats B WHERE Reserves.G=Sailors.A;
